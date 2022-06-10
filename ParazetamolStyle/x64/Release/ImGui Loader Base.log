@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: Katalog pośredni (x64\Release\) zawiera pliki udostępnione z innego projektu (DiamondLoaderV2.vcxproj, PlanetWare.vcxproj, UnexUI.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+C:\Users\korex\Desktop\parazetamol\brejkitLEGIT\DiamondLoader\TextEditor.h(391,2): warning C4091: "static ": zignorowano na lewo od "TextEditor" podczas gdy brak deklaracji zmiennej
+C:\Users\korex\Desktop\parazetamol\brejkitLEGIT\DiamondLoader\main.cpp(196,26): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\korex\Desktop\parazetamol\brejkitLEGIT\DiamondLoader\main.cpp(196,23): warning C4244: "inicjowanie": konwersja z "double" do "const float", możliwa utrata danych
+C:\Users\korex\Desktop\parazetamol\brejkitLEGIT\DiamondLoader\main.cpp(235,25): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\korex\Desktop\parazetamol\brejkitLEGIT\DiamondLoader\main.cpp(235,19): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\korex\Desktop\parazetamol\brejkitLEGIT\DiamondLoader\main.cpp(244,60): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\korex\Desktop\parazetamol\brejkitLEGIT\DiamondLoader\main.cpp(245,28): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\korex\Desktop\parazetamol\brejkitLEGIT\DiamondLoader\main.cpp(248,52): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  1 of 1843 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  ImGui Loader Base.vcxproj -> C:\Users\korex\Desktop\parazetamol\brejkitLEGIT\x64\Release\PlanetWareLogin.exe

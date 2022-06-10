@@ -1,0 +1,2 @@
+D:\GUI\[1] DiamondProject\DiamondLoader\DiamondLoader\x64\Release\DiamondLoaderV2.exe
+D:\GUI\eulen project\EULENLOADingA\DiamondLoader\x64\Release\DiamondLoaderV2.exe
